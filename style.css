@@ -49,3 +49,9 @@ body {
 #panacek {
 	z-index: 1;
 }
+
+.okno {
+	background-color: blueviolet;
+	margin: auto;
+	width: 30%;
+}
